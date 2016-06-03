@@ -1,0 +1,122 @@
+body {
+  margin: 0px;
+}
+
+header {
+  color: white;
+  padding: 10px 0px;
+  padding-bottom: 3px;
+  margin: 0;
+  background-color: #383838;
+}
+hr{
+  background: #000;  border: 2px solid #000;
+  padding: 0px;   margin-top: 2px;
+  margin-bottom: 0;
+}
+
+.details{
+  margin-bottom: 10px;
+  height: 30px;
+  width: 200px;
+  padding: 5px 0;
+}
+
+nav form{
+  display: inline;
+}
+nav {
+  display: inline;
+  padding-left: 50px;
+}
+.login {
+  margin-right:10px;
+}
+#alert_username {
+ margin-left: 670px; 
+}
+
+#alert_password {
+  margin-left: 100px; 
+}
+nav h3 {
+  margin: 0px;
+  display: inline;
+  margin-right: 400px;
+}
+.sign_in{
+  margin: 0 7px;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+.signin_button{
+  border: 2px solid #DCDCDE;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: none;
+}
+.topText {
+  text-align: center;
+  color: white;
+  padding-top: 40px;
+  margin: 0;
+  background-color: rgba(13,40,58,0.99);
+  height: 400px;
+}
+
+.topText .submit{
+  color: #fff;
+  margin-top: 20px;
+  display: inline-block;
+  padding: 12px 25px;
+  border: 1px solid #DCDCDE;
+  border-radius: 8px;
+  background-color: rgba(13,40,58,0.99);
+  cursor: pointer;
+}
+.paint:hover {
+  color: blue;
+}
+
+.paint {
+  color: white;
+  text-decoration: none;
+  -moz-transition: color 0.6s;
+  -webkit-transition: color 0.6s;
+  -o-transiton: color 0.6s;
+  -w-transition: color 0.6s;
+}
+ .topText #vision {
+   margin: 30px;
+   padding: 30px;
+ }
+.how_to {
+  background-color: #C6C6C6;
+  height:400px;
+  padding: 40px;
+  font-family: "Courier New", Courier, monospace;
+}
+.how_to .circle{
+  text-align: center;
+  display: block;
+  color: white;
+  width: 50px;
+  height: 50px;
+  background-color: rgba(13,40,58,0.99);
+  border-radius: 50%;
+  padding: 30px;
+}
+.one, .four{
+  margin-left: 45%;
+}
+.two{
+  float: left;
+  margin-left: 30%;
+}
+.three{
+  float: right;
+  margin-right: 30%;
+}
+.four{
+  clear: both;
+}

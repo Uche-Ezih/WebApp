@@ -1,0 +1,62 @@
+#main
+{
+    width: 80%;
+    float:left;
+    margin-top: 100px;
+    margin-left:10%;
+    margin-right:10%;
+  
+    height: 500px;
+    background-color: #F2F2F2;
+    padding: 5px;
+}
+
+#settingsList
+{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#settingsList li
+{
+    display: block;
+    padding: 4px;
+    border-bottom: 1px solid gray;
+}
+
+#settingsList li:hover
+{
+    background-color: darkgray;
+    cursor: pointer;
+}
+
+.settingsListItemLabel
+{
+    display: inline-block;
+    width: 25%;
+    vertical-align: middle;
+}
+
+.settingsListItemContent
+{
+    float: right;
+    width: 75%;
+    vertical-align: middle;
+}
+
+.settingsListItemTextInactive
+{
+    background-color: inherit;
+    border: 0px;
+    cursor: inherit;
+    
+}
+
+.settingsListItemTextActive
+{
+    background-color: inherit;
+     border: 1px solid gray;
+}

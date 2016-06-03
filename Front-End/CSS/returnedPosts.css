@@ -1,0 +1,28 @@
+
+/*CSS Styling for returned posts*/
+#returnedPost{
+    background-color: #F2F2F2;
+    width: 90%;
+    color : #000;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 20%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+#author{
+    width: 10%;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    background-color:#1f30a1;
+    margin-left: 75%;
+    font-style: italic;
+    
+}

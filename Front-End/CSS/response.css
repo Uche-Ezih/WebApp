@@ -1,0 +1,12 @@
+
+#container{
+    width: 80%;
+    height: 80vh;
+    float:left;
+    margin-top: 100px;
+    margin-left:10%;
+    margin-right:10%;
+    background-color: #F2F2F2;
+    padding-bottom: 70px;
+    text-align: left;
+}
